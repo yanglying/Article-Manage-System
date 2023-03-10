@@ -5,7 +5,7 @@ http://139.224.104.21/
 npm install
 
 
-二、服务器启动 ：
+二、服务器启动
 1、切换至server
 2、再次安装服务器相关依赖：npm install
 3、启动：npm start 
@@ -17,3 +17,4 @@ npm run serve
 
 
 
+ 
